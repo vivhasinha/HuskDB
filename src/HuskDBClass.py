@@ -1,0 +1,2 @@
+class HuskDb:
+    pass
